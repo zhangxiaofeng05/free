@@ -31,3 +31,10 @@ trojan://bpb-trojan@www.vpslook.com:443?security=tls&sni=这里填域名&alpn=h3
 版本是 2.5.3以上，复制链接到 v2ray 客户端，替换需要填写的域名
 
 参考：https://www.freedidi.com/17131.html
+
+### 解决bug
+1. 面板密码修改
+2. 设置 UUID 变量
+3. 设置 TR_PASS 变量
+
+依然存在的问题，反向代理其它网站，依然有被fofa等网络测绘网站扫描到的风险
