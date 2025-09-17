@@ -3,6 +3,7 @@
 https://aistudio.google.com/apikey 每个账号可生成两三个 api key  
 https://ai.google.dev/gemini-api/docs/rate-limits 每个 api key 使用模型的限制
  - https://github.com/PublicAffairs/openai-gemini 中转到国内
+ - https://github.com/tbphp/gpt-load 搭建号池
  - https://github.com/snailyp/gemini-balance 搭建号池
 
 ## 模型提供商
